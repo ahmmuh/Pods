@@ -1,0 +1,6 @@
+framework module Pods_facebookAudienceNetwork {
+  umbrella header "Pods-facebookAudienceNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}
